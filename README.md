@@ -9,7 +9,7 @@ JSP&JQuery Class의 강의는 총 4일.
 
 [학습]  
 - **JSP-JQuery의 학습 목표 : 빅데이터 저장시스템 개발 : 32 H**  
-- Class 01 : 수강 전  
+- Class 01 : 자바 스크립트의 사용자 함수 및 HTML 연계 적용 / JQuery의 개념 및 기본 문법 / 람다 및 콜백 함수 / JQ-HTML 연계 실습  
 - Class 02 : 수강 전  
 - Class 03 : 수강 전  
 - Class 04 : 수강 전  
