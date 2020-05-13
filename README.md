@@ -1,6 +1,6 @@
-# Bigdataplatform_Web_Class_Note
+# Bigdataplatform_JSP-JQuery_Class_Note
 
-Web Class의 강의는 총 3일.  
+JSP&JQuery Class의 강의는 총 4일.  
 강의를 수강하며 작성하는 코드, 강의록을 메모하는 공간  
 매일 강의 내용을 프로젝트 폴더 단위(코드 / .java)로 업로드를 진행합니다.  
 :: Workshop(과제)의 경우 폴더 개별 업로드를 진행하기도 합니다.  
@@ -8,10 +8,11 @@ Web Class의 강의는 총 3일.
 <hr>   
 
 [학습]  
-- **Web Class의 학습 목표 : 빅데이터 플랫폼 화면 구현 : 40 H**  
-- Class 01 : 기본 개념 및 구성도 / Apache & Tomcat 설치 및 구성 / HTML 태그, 이미지, 표, 다양한 주요기능 학습  
-- Class 02 : a link 태그 / Div, Span 실습 / CSS Basic / CSS Override, 우선순위 / Inline, Internal, External CSS 적용  
-- Class 03 : HTML 심화 / 웹페이지 구성 및 HTML, CSS 적용실습 / JS기초 및 HTML 연결 / 사용자 함수 작성 및 호출 / JS를 통한 HTML값 변경   
+- **JSP-JQuery의 학습 목표 : 빅데이터 저장시스템 개발 : 32 H**  
+- Class 01 : 수강 전  
+- Class 02 : 수강 전  
+- Class 03 : 수강 전  
+- Class 04 : 수강 전  
 
 <hr>
 
@@ -34,9 +35,9 @@ Web Class의 강의는 총 3일.
 
 과정상세 
 * 프로그래밍 언어 활용 : 80 H 
-* **빅데이터 플랫폼 화면 구현 : 40 H**   
+* 빅데이터 플랫폼 화면 구현 : 40 H  
 * 빅데이터 수집시스템 개발 : 32 H 
-* 빅데이터 저장시스템 개발 : 32 H 
+* **빅데이터 저장시스템 개발 : 32 H** 
 * 빅데이터 처리시스템 개발 : 32 H 
 * 빅데이터 분석 플랫폼 시스템 개발 : 64 H 
 * 빅데이터 플랫폼 요구사항 분석 및 아키텍처 설계 : 56 H
