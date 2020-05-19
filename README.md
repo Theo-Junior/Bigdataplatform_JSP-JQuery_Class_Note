@@ -14,6 +14,7 @@ JSP&JQuery Class의 강의는 총 5일.
 - Class 03 : Sevlet, JSP, HTML 작성 및 구동 / War Export(배포)/Import(Apache 마운트) 학습-> / Cookie의 개념 및 실습
 - Class 04 : Session의 개념 및 실습 / Cookie vs Session 비교 이해 / 로그인 및 회원가입 페이지 실습 / 마무리 테스트 
 - Class 05 : JDBC(Oracle) - JSP 연동 / JSP를 이용한 JDBC 입출력 구현 / 데이터 관리 실습 페이지 작성  
+--> JDBC <-> Oracle 연동 간 Docker로 컨테이너 이미지 띄우기 필요..!
 
 <hr>
 
