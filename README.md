@@ -1,8 +1,8 @@
 # Bigdataplatform_JSP-JQuery_Class_Note
 
-JSP&JQuery Class의 강의는 총 4일.  
+JSP&JQuery Class의 강의는 총 5일.  
 강의를 수강하며 작성하는 코드, 강의록을 메모하는 공간  
-매일 강의 내용을 프로젝트 폴더 단위(코드 / .java)로 업로드를 진행합니다.  
+매일 강의 내용을 프로젝트 폴더 단위(코드 / .jsp, .java, .html)로 업로드를 진행합니다.  
 :: Workshop(과제)의 경우 폴더 개별 업로드를 진행하기도 합니다.  
 
 <hr>   
@@ -13,6 +13,7 @@ JSP&JQuery Class의 강의는 총 4일.
 - Class 02 : Java Server의 개념 및 활용 / Servlet 개념 학습 및 실습 / Eclipse-Tomcat 연결 및 로컬 서버 구동 / HTTP Req, Res 
 - Class 03 : Sevlet, JSP, HTML 작성 및 구동 / War Export(배포)/Import(Apache 마운트) 학습-> / Cookie의 개념 및 실습
 - Class 04 : Session의 개념 및 실습 / Cookie vs Session 비교 이해 / 로그인 및 회원가입 페이지 실습 / 마무리 테스트 
+- Class 05 : 수강 전  
 
 <hr>
 
