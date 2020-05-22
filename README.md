@@ -8,13 +8,16 @@ JSP&JQuery Class의 강의는 총 5일.
 <hr>   
 
 [학습]  
-- **JSP-JQuery의 학습 목표 : 빅데이터 저장시스템 개발 : 32 --> 40 H**  
+- **JSP-JQuery의 학습 목표 : 빅데이터 저장시스템 개발 : 32 --> 48 H**  
 - Class 01 : 자바 스크립트의 사용자 함수 및 HTML 연계 적용 / JQuery의 개념 및 기본 문법 / 람다 및 콜백 함수 / JQ-HTML 연계 실습  
 - Class 02 : Java Server의 개념 및 활용 / Servlet 개념 학습 및 실습 / Eclipse-Tomcat 연결 및 로컬 서버 구동 / HTTP Req, Res 
 - Class 03 : Sevlet, JSP, HTML 작성 및 구동 / War Export(배포)/Import(Apache 마운트) 학습-> / Cookie의 개념 및 실습
 - Class 04 : Session의 개념 및 실습 / Cookie vs Session 비교 이해 / 로그인 및 회원가입 페이지 실습 / 마무리 테스트 
 - Class 05 : JDBC(Oracle) - JSP 연동 / JSP를 이용한 JDBC 입출력 구현 / 데이터 관리 실습 페이지 작성  
---> JDBC <-> Oracle 연동 간 Docker로 컨테이너 이미지 띄우기 필요..!
+- Class 06 : JDBC -> JDNI 학습 및 실습 / JDNI를 활용한 가입, 수정, 삭제, 추가 페이지 구현 / 파이널 리뷰  
+
+--> JDBC <-> Oracle 연동 간 Docker로 컨테이너 이미지 띄우기 필요..!  
+--> Docker <-> Kubernetis 컨테이너 관리 필요..!  
 
 <hr>
 
